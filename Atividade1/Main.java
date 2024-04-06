@@ -2,7 +2,7 @@ package Atividade1;
 
 public class Main {
     
-    public static void main(String[] args) {
+    public static void main(String[] args) { 
         
         Calculadora calc = new Calculadora();
         calc.numA = 2;
